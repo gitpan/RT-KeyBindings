@@ -1,0 +1,4 @@
+<%init>
+$m->comp('/KeyBindings/Elements/SetupKeyBindings');
+return();
+</%init>

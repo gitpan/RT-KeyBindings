@@ -1,4 +1,5 @@
-html/KeyBindings/Callbacks/RT-KeyBindings/Elements/Header/Head
+Changes
+html/Callbacks/RT-KeyBindings/Elements/Header/Head
 html/KeyBindings/Core.js
 html/KeyBindings/Elements/AddKeyBinding
 html/KeyBindings/Elements/SetupKeyBindings
@@ -16,3 +17,4 @@ Makefile.PL
 MANIFEST			This list of files
 META.yml
 README
+RT-KeyBindings-0.00_02/inc/Module/Install.pm
