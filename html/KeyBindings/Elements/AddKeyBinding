@@ -1,0 +1,8 @@
+<%args>
+$key => undef
+$action => undef
+$target => undef
+</%args>
+<script>
+addKeyBinding('<%$key%>', "<%$action%>", "<%$target%>");
+</script>

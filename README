@@ -1,0 +1,6 @@
+This RT extension allows RT components and extensions to register their own
+key bindings.  Use this at your own risk. It doesn't do anything useful yet ;)
+
+     Jesse Vincent
+     3 October 2004
+     Somerville, MA USA

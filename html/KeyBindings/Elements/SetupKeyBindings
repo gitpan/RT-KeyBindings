@@ -1,0 +1,4 @@
+<script src="<%$RT::WebPath%>/KeyBindings/Core.js"></script>
+<script>
+var bindings = Array;
+</script>
